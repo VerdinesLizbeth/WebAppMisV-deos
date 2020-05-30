@@ -19,14 +19,14 @@ El deploy está hecho en el servicio NOW.
 Link del deploy: "https://wepappmis.now.sh"
 
 # MODULOS
- </br>-En la pagina principal se muestran los vídeos, al seleccionar un vídeo aparecen en una nueva pagina con sus datos.
- </br>-Si se selecciona un usuario  se muestra  una pagina con los vídeos del usuario seleccionado.
- </br>-La app web permite el registrar nuevos usuarios, estos datos se guardan en una base de datos.
- </br>-Cada usuario puede guardar videos siempre y cuando este loagueado.
- </br>-Los usuarios pueden capturar videos de Youtube, Metacafe y vimeo, mediante la liga o enlace de cada video.
- </br>-El usuario puede ver su lista de los videos que ha agregado.
- </br>-Sistema de calificación de videos, pueden votar sobre algun video, siempre y cuando este logueado.
- </br>-Users, los usuarios logueados y no logueado podran ver los usuarios logueados.
+ -En la pagina principal se muestran los vídeos, al seleccionar un vídeo aparecen en una nueva pagina con sus datos.
+ -Si se selecciona un usuario  se muestra  una pagina con los vídeos del usuario seleccionado.
+ -La app web permite el registrar nuevos usuarios, estos datos se guardan en una base de datos.
+ -Cada usuario puede guardar videos siempre y cuando este loagueado.
+ -Los usuarios pueden capturar videos de Youtube, Metacafe y vimeo, mediante la liga o enlace de cada video.
+ -El usuario puede ver su lista de los videos que ha agregado.
+ -Sistema de calificación de videos, pueden votar sobre algun video, siempre y cuando este logueado.
+ -Users, los usuarios logueados y no logueado podran ver los usuarios logueados.
 
 # EDITOR DE CODIGO
 Usamos el editor de código de Visual Studio Code.
